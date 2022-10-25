@@ -1,0 +1,19 @@
+{
+  "name": "workflow",
+  "version": "1.0.0",
+  "description": "WorkflowPackage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/norbadboy/Workflow.git"
+  },
+  "author": "Thong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/norbadboy/Workflow/issues"
+  },
+  "homepage": "https://github.com/norbadboy/Workflow#readme"
+}
