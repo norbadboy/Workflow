@@ -16,5 +16,8 @@
     "url": "https://github.com/norbadboy/Workflow/issues"
   },
   "homepage": "https://github.com/norbadboy/Workflow#readme",
-  "keywords": []
+  "keywords": [],
+  "devDependencies": {
+    "dotenv": "^16.0.3"
+  }
 }
